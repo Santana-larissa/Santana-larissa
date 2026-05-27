@@ -1,8 +1,11 @@
-Olá! Eu sou a Larissa 👋
+Olá! Eu sou a Larissa 
 
- Desenvolvedora Full Stack Jr
+Desenvolvedora Full Stack Jr
+ 
 React • TypeScript • Node.js • NestJS
+
 Estudando Análise e Desenvolvimento de Sistemas
+
 📍 Garopaba - SC
 
 <!--
