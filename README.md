@@ -2,11 +2,11 @@ Olá! Eu sou a Larissa
 
 Desenvolvedora Full Stack Jr
  
-React • TypeScript • Node.js • NestJS
+React • JavaScript • TypeScript • Node.js • NestJS
 
 Estudando Análise e Desenvolvimento de Sistemas
 
-📍 Garopaba - SC
+Garopaba - SC
 
 <!--
 **Santana-larissa/Santana-larissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
